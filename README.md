@@ -1,7 +1,6 @@
 # FirefoxCSS
 A custom Firefox Skin
-Inline-style: 
-![alt text](/Preview/Screenshot.png)
+![Preview Image](/Preview/Screenshot.png)
 
 ### Installation
 1. Download FirefoxCSS from Releases
