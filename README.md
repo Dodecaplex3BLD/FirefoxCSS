@@ -1,6 +1,6 @@
 # FirefoxCSS
 A custom Firefox Skin
-[image preview](/Preview/Screenshot.png)
+(/Preview/Screenshot.png)
 ### Installation
 1. Download FirefoxCSS from Releases
 2. Move user.js into your Firefox profile folder
