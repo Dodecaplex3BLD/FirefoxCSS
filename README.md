@@ -3,7 +3,7 @@ A custom Firefox Skin
 
 ![Preview Image](/Preview/Screenshot.png)
 
-Used with the [Dark Space](https://addons.mozilla.org/en-GB/firefox/addon/nicothin-space/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) addon by Nicothin
+Screenshot taken with the [Dark Space](https://addons.mozilla.org/en-GB/firefox/addon/nicothin-space/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) addon by Nicothin
 
 ### Installation
 1. Download FirefoxCSS from Releases
