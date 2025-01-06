@@ -1,0 +1,16 @@
+@-moz-document url(chrome://browser/content/browser.xul), url("about:newtab"), url("about:home"), url(about:privatebrowsing) {
+	body{
+		background-image: url("BG.jpg") !important;
+		background-size: cover !important;
+		background-repeat: no-repeat !important;
+		background-attachment: fixed !important;
+		background-position-x: center !important;
+		background-position-y: bottom !important;
+	}
+
+    /* Transparent Searchbar */
+	.search-handoff-button{
+		background-color: transparent !important;
+		backdrop-filter: blur(20px);
+	}
+}
