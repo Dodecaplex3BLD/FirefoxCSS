@@ -1,5 +1,5 @@
 # FirefoxCSS
-A custom Firefox Skin
+Custom Firefox Skin
 
 ![Preview Image](/Preview/Screenshot.png)
 
