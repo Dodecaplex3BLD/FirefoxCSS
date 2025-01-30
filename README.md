@@ -1,5 +1,5 @@
 # FirefoxCSS
-Custom Firefox Skin
+A Custom Firefox Skin with an animated sidebar
 
 ![Preview Image](/Preview/Screenshot.png)
 
