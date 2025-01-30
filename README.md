@@ -7,7 +7,7 @@ Screenshot taken with the [Dark Space](https://addons.mozilla.org/en-GB/firefox/
 
 ### Installation
 1. Download FirefoxCSS from Releases
-2. Move user.js into your Firefox profile folder
+2. Move user.js and the chrome folder into your Firefox profile folder
 3. Restart the browser
 4. Customise the toolbar as desired
 ### Custom wallpaper
