@@ -1,0 +1,11 @@
+#sidebar-main:not(:hover){width: 50px !important;}
+
+#sidebar-main:not(:hover) .tabbrowser-tab{width: 53px !important; min-width: 0px !important} #tabs-newtab-button {display: none !important}
+
+#sidebar-main:not(:hover) .tab-label-container, #sidebar-main:not(:hover) .tab-close-button{ display: none !important}
+
+#sidebar-main:not(:hover) #vertical-tabs-newtab-button{width: 40px !important; min-width: 0px !important; appearance: none !important}
+
+#sidebar-main:hover{margin-right: -201px !important; width: 251px !important;}
+
+#sidebar-main{transition: 0.2s !important; z-index: 4 !important}
