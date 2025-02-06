@@ -1,4 +1,5 @@
-@-moz-document url(chrome://browser/content/browser.xul), url("about:newtab"), url("about:home"), url(about:privatebrowsing) {
+@-moz-document url("about:home"), url("about:newtab"), url("about:privatebrowsing") {
+	/* Custom Background*/
 	body{
 		background-image: url("BG.jpg") !important;
 		background-size: cover !important;
@@ -8,9 +9,25 @@
 		background-position-y: bottom !important;
 	}
 
-    /* Transparent Searchbar */
-	.search-handoff-button{
-		background-color: transparent !important;
-		backdrop-filter: blur(20px);
-	}
+	/* Custom Logo */
+	.logo{ background: url("Logo.png") no-repeat center !important; background-size: 64px 64px !important; } 
+	.wordmark{ display: none !important; }
+	.logo-and-wordmark{ margin-block-end: 16px !important; }
+
+	/*Transparent and Blurred Search Bar */
+	.search-wrapper input{ background-color: transparent !important; backdrop-filter: blur(20px); }
+	.search-handoff-button{ background-color: transparent !important; backdrop-filter: blur(20px); border: none !important; }
+	.search-button{ display: none !important; }
 }
+	
+@-moz-document url("about:home"), url("about:newtab") {
+	/* Position Items */
+	.only-search{ padding-top: 300px !important; }
+}
+
+@-moz-document url("about:privatebrowsing") {
+	/* Position Items and Hide Info*/
+	body{ padding-bottom: 200px !important; }
+	.info{ display: none !important; }
+}
+
