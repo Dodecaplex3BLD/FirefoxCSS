@@ -54,3 +54,7 @@
 moz-button[type="icon ghost"]{transition: opacity 0.3s ease-in-out !important;}
 
 .actions-list[orientation="vertical"]:not(:hover) moz-button:last-child{background-color: transparent !important;transition: background-color 0ms ease !important;order: -1 !important;}
+
+/* Hide permanent spacer in Header*/
+#vertical-spacer {
+	display: none;
