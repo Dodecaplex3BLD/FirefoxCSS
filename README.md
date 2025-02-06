@@ -1,7 +1,7 @@
 # FirefoxCSS
 A custom Firefox skin with animated sidebar
 
-![Preview Image](/Preview/Screenshot.png)
+![Preview Image](/Preview/Showcase.jpg)
 
 Screenshot taken with the [Dark Space](https://addons.mozilla.org/en-GB/firefox/addon/nicothin-space/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) addon by Nicothin
 
