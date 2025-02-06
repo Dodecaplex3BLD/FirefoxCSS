@@ -11,7 +11,7 @@
 #sidebar-main:hover {
     width: 250px !important; /* Expanded width */
     margin-right: -200px !important; /* Adjust for layout shift */
-    background: #191919 !important; /* Background color */
+    background: #000000 !important; /* Background color */
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.4) !important; /* Optional shadow for depth */
 }
 
