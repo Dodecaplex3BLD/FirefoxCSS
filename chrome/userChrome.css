@@ -4,6 +4,3 @@
       padding-block: 0px 0px !important;
     }
 }
-
-/* Hide Extensions in Sidebar */
-.actions-list[orientation="vertical"]:not(:hover) moz-button[type="icon ghost"]:not(:last-child) {opacity: 0 !important; height: 0px !important;}
