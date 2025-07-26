@@ -1,7 +1,7 @@
 # FirefoxCSS
 A custom Firefox skin
 
-![Preview Image](/Preview/Showcase.jpg)
+![Preview Image](/Preview/Showcas.jpg)
 
 Screenshot taken with [Matte Black (Sky Blue)](https://addons.mozilla.org/en-GB/firefox/addon/matte-black-sky-blue/) addon by Elijah Lopez
 
